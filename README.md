@@ -1,2 +1,2 @@
-# PYTHON_BANK_CLI_APP
-A simple Python-based banking system that handles user accounts, deposits, withdrawals, and balance checks. Great for learning object-oriented programming and data handling.
+**Bank App with MongoDB**
+A Python banking application that lets users create accounts, deposit, withdraw, and check balances. It securely stores all user data and transaction history in MongoDB for persistent, scalable storage. The app demonstrates full CRUD operations and user authentication integrated with a NoSQL database. Ideal for learning backend development with Python and MongoDB. Perfect for building real-world, database-driven financial apps.
